@@ -35,7 +35,7 @@ header .logo {
 }
 
 .containerinside {
-    background-image: url(./asset/skin\ care.png);
+    background-image: url(.Skin_care.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
